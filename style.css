@@ -1,0 +1,42 @@
+ body{
+    background-color: rgb(136, 197, 123);
+ }
+ form{
+    background-color: rgb(204, 206, 78);
+    margin: 1cm;
+    padding: 20%;
+    border-radius: 1cm;  
+ }
+
+ img{
+    
+    border-radius: 10cm;
+    position: left;
+ }
+
+ div{
+    text-align: center;
+    font-size: large;
+    letter-spacing: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+ }
+
+input{
+    border-radius: 10cm;
+    width: 10cm;
+    height: 1cm;
+}
+
+#submit{
+    background-color: rgb(104, 104, 180);
+    position: left;
+    border-radius: 10cm;
+    width: 10cm;
+    height: 1cm;
+}
+
+.posicion{
+    text-align: center;
+}
+
+
